@@ -1,0 +1,1 @@
+void pentagon(int edge_length);
